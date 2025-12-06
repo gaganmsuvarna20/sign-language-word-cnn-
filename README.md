@@ -87,7 +87,7 @@ CNN (custom dataset)	~85–92% depending on data
 
 (results depend on dataset size)
 
-![Gesture Demo](images/hello.png)
+![Demo](images/hello1.png)
 
 
 🧑‍💻 Author
